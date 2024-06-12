@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java Full Stack Developer
 - 🌱 I’m currently learning JDBC(java database connectivity)
 - 💞️ I’m looking to collaborate on team projeccts
-- 📫 How to reach me https://www.linkedin.com/in/archi-agrawal80?
+- 📫 How to reach me www.linkedin.com/in/archi-agrawal80
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Coffee-powered Coder: Java is named after the coffee due to its founders' love for coffee. So, you can say, "Fueling my code with Java, just like my coffee!"
 
