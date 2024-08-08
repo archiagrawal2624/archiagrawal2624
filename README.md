@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Archi Agrawal</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FShreyasiDebnath&psig=AOvVaw14sHCBw2d4294UpVoNcNch&ust=1723225111557000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCND3t6H45YcDFQAAAAAdAAAAABAE">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archiagrawal2624&label=Profile%20views&color=0e75b6&style=flat" alt="archiagrawal2624" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archiagrawal2624" alt="archiagrawal2624" /></a> </p>
