@@ -52,7 +52,7 @@ Here are some of the projects I have worked on at **Teleptahy Infotech**:
 - **homelead** – Property Management Platform: Similar to 99tolet, focused on lead generation and efficient property management for homeowners and renters.
 - **paygery** – Payment Gateway: A robust API-based payment gateway solution, designed for secure and seamless financial transactions.
 
-*All of these projects are part of my journey at Tekleptahy Infotech, where I contributed as a Java Full Stack Developer.*
+*All of these projects are part of my journey at Teleptahy Infotech, where I contributed as a Full Stack Developer.*
 
 ---
 
